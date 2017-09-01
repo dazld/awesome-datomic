@@ -20,6 +20,10 @@ Awesome Datomic and Datascript related resources.
 - [Querying across databases](http://cjohansen.no/querying-across-datomic-databases/): using multiple db values in queries
 - [Annotating datomic transactions](http://cjohansen.no/annotating-datomic-transactions/): annotating (for example) audit information when transacting
 
+## Learning
+
+- [Learn Datalog today](http://www.learndatalogtoday.org/)
+
 ## Snippets
 
 - [Datomic news updates](https://gist.github.com/stuarthalloway/2948756): Update examples against a social news database
