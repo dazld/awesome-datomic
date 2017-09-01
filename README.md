@@ -19,3 +19,8 @@ Awesome Datomic and Datascript related resources.
 - [Referentially Transparent Crud](http://cjohansen.no/referentially-transparent-crud/): discussion of referential transparency with CRUD operations
 - [Querying across databases](http://cjohansen.no/querying-across-datomic-databases/): using multiple db values in queries
 - [Annotating datomic transactions](http://cjohansen.no/annotating-datomic-transactions/): annotating (for example) audit information when transacting
+
+## Snippets
+
+- [Datomic news updates](https://gist.github.com/stuarthalloway/2948756): Update examples against a social news database
+- [Transaction attribute functions](https://gist.github.com/favila/8ce31de4b2cb04cf202687c6a8fa4c94): Datomic transaction functions to "reset" attributes: i.e. make them have a post-transaction value you specify without having to enumerate the retractions.
