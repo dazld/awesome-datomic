@@ -19,6 +19,8 @@ Awesome Datomic and Datascript related resources.
 - [Referentially Transparent Crud](http://cjohansen.no/referentially-transparent-crud/): discussion of referential transparency with CRUD operations
 - [Querying across databases](http://cjohansen.no/querying-across-datomic-databases/): using multiple db values in queries
 - [Annotating datomic transactions](http://cjohansen.no/annotating-datomic-transactions/): annotating (for example) audit information when transacting
+- [Using datomic in your app, a practical guide](https://vvvvalvalval.github.io/posts/2016-07-24-datomic-web-app-a-practical-guide.html).
+- [Application architecture with datomic - branching reality](https://vvvvalvalval.github.io/posts/2016-01-03-architecture-datomic-branching-reality.html)
 
 ## Learning
 
