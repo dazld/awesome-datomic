@@ -1,6 +1,10 @@
 # awesome-datomic
 Awesome Datomic and Datascript related resources.
 
+## Contributing
+
+Please do contribute, if you have something which you think is awesome! PRs welcome from everyone :)
+
 ## Officialish
 
 - [Day Of Datomic Videos](http://www.datomic.com/training.html)
