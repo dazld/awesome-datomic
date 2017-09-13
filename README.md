@@ -27,6 +27,7 @@ Please do contribute, if you have something which you think is awesome! PRs welc
 - [Using datomic in your app, a practical guide](https://vvvvalvalval.github.io/posts/2016-07-24-datomic-web-app-a-practical-guide.html).
 - [Application architecture with datomic - branching reality](https://vvvvalvalval.github.io/posts/2016-01-03-architecture-datomic-branching-reality.html)
 - [Datomic Direct Index Lookup](http://augustl.com/blog/2013/datomic_direct_index_lookup/): explanation of how direct index queries can be faster
+- [Using Datomic as a Graph database](https://hashrocket.com/blog/posts/using-datomic-as-a-graph-database): exploration of the classic n degrees of separation scenario with datomic
 
 ## Learning
 
