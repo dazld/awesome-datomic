@@ -17,6 +17,7 @@ Please do contribute, if you have something which you think is awesome! PRs welc
 - [Datomic-schema](https://github.com/Yuppiechef/datomic-schema). 'datomic-schema' makes it easier to see your schema without sacrificing features'
 - [datofu](https://github.com/vvvvalvalval/datofu). 'theres a :db/fn for that'
 - [Spec-tacular](https://github.com/SparkFund/spec-tacular). DSL over datomic with schema creation, core.typed aliases, transactions etc.
+- [Spectomic](https://github.com/Provisdom/spectomic) - generate datomic schemas from specs
 
 ## Articles
 
