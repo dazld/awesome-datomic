@@ -19,6 +19,7 @@ Please do contribute, if you have something which you think is awesome! PRs welc
 - [Spec-tacular](https://github.com/SparkFund/spec-tacular). DSL over datomic with schema creation, core.typed aliases, transactions etc.
 - [Spectomic](https://github.com/Provisdom/spectomic) - generate datomic schemas from specs
 - [datomock](https://github.com/vvvvalvalval/datomock) - Mocking and forking Datomic connections in-memory.
+- [umlaut](https://github.com/workco/umlaut) - Generate datomic (and gql, lacinia, etc.) schemas from a neutral format
 
 ## Articles
 
