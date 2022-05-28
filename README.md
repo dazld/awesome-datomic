@@ -13,6 +13,7 @@ Please do contribute, if you have something which you think is awesome! PRs welc
 
 ## Libraries
 
+- [stillsuit](https://github.com/workframers/stillsuit) - "The basic idea behind stillsuit is that you define a few top-level queries that return datomic entities or lists of entities, set up your schema to tell lacinia which :db.type/ref attributes point at which GraphQL types, and stillsuit handles graph traversal and field lookup for you."
 - [Spirit](https://github.com/zcaudate/spirit). 'spirit provides a simple, intuitive data layer to access datomic using a document-based syntax, as well as a data-processing pipeline for fine-grain manipulation and access of data.'
 - [Datomic-schema](https://github.com/Yuppiechef/datomic-schema). 'datomic-schema' makes it easier to see your schema without sacrificing features'
 - [datofu](https://github.com/vvvvalvalval/datofu). 'theres a :db/fn for that'
